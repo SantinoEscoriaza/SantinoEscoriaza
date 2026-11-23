@@ -14,7 +14,7 @@ Soy estudiante de 4° año de **Ingeniería en Sistemas** en la UTN Facultad Reg
 
 He estudiado programación mayormente de forma autodidacta, enfocado en el desarrollo web, principalmente con un stack basado en **React y TypeScript**.
 
-Hoy mi foco está puesto en crecer del lado del **backend**, sobre todo con **Python**, construyendo proyectos que me permitan profundizar en el diseño de APIs y el manejo de datos.
+Hoy mi foco está puesto en crecer del lado del **backend**, sobre todo con **Python**, construyendo proyectos que me permitan profundizar en el diseño de APIs, POO y el manejo de datos.
 
 <br>
 
