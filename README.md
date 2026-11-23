@@ -6,48 +6,50 @@
   Buenas! Soy Santino Escoriaza&nbsp;&nbsp;<a href="https://www.linkedin.com/in/santino-escoriaza/"><img height="28" align="absmiddle" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>&nbsp;<a href="mailto:santinoescoriaza@gmail.com"><img height="28" align="absmiddle" src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
 </h1>
 
-<br><br>
+<br>
 
-<table align="right" hspace="20">
+<h2>👨‍💻 Sobre mí</h2>
+
+Soy estudiante de 4° año de **Ingeniería en Sistemas** en la UTN Facultad Regional Mendoza y trabajo en el equipo de activación de **Pip (Fintech Solutions)**, un SaaS construido sobre la Cloud API de Meta. En mi día a día trabajo con **APIs, webhooks y automatizaciones con n8n**, integrando servicios y poniendo en marcha las cuentas de los clientes.
+
+He estudiado programación mayormente de forma autodidacta, enfocado en el desarrollo web, principalmente con un stack basado en **React y TypeScript**.
+
+Hoy mi foco está puesto en crecer del lado del **backend**, sobre todo con **Python**, construyendo proyectos que me permitan profundizar en el diseño de APIs y el manejo de datos.
+
+<br>
+
+<h2>🧰 Stack</h2>
+
+<table align="center">
   <tr>
     <td align="center">
-      <h3>🎨 Frontend</h3>
+      <h4>🎨 Frontend</h4>
       <a href="https://skillicons.dev">
         <img height="76" src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=3&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <h3>⚙️ Backend</h3>
+      <h4>⚙️ Backend</h4>
       <a href="https://skillicons.dev">
         <img height="76" src="https://skillicons.dev/icons?i=java,spring,nodejs,py,fastapi&perline=3&theme=dark" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <h3>🗄️ Data / Database</h3>
+      <h4>🗄️ Data / Database</h4>
       <a href="https://skillicons.dev">
-        <img height="35" src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+        <img height="76" src="https://skillicons.dev/icons?i=postgres,mysql&perline=1&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <h3>🛠️ Tecnologías</h3>
+      <h4>🛠️ Tecnologías</h4>
       <a href="https://skillicons.dev">
-        <img height="76" src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,kubernetes,gradle,postman,notion&perline=5&theme=dark" />
+        <img height="117" src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,kubernetes,gradle,postman,notion&perline=3&theme=dark" />
       </a>
     </td>
   </tr>
 </table>
 
-<h3>👨‍💻 Sobre mí</h3>
-
-Soy estudiante de 4° año de **Ingeniería en Sistemas** en la UTN Facultad Regional Mendoza y trabajo en el equipo de activación de **Pip (Fintech Solutions)**, un SaaS construido sobre la Cloud API de Meta. En mi día a día trabajo con **APIs, webhooks y automatizaciones con n8n**, integrando servicios y poniendo en marcha las cuentas de los clientes.
-
-He estudiado programación mayormente de forma autodidacta, enfocado en el desarrollo web, principalmente con un stack basado en **React y TypeScript**. 
-
-Hoy mi foco está puesto en crecer del lado del **backend**, sobre todo con **Python**, construyendo proyectos que me permitan profundizar en el diseño de APIs y el manejo de datos.
-
-<br clear="both"/>
+<br>
 
 <h2>📂 Proyectos</h2>
 
